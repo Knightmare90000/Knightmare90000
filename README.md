@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Knightmare90000
 - 👀 I’m interested in?
-- 🌱 I’m currently learning C++
+- 🌱 
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me discord
 - 😄 Pronouns: he/him
